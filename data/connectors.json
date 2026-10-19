@@ -39133,6 +39133,15 @@
       "category": "Lifestyle and Local",
       "description": "Searches halal restaurants by city or coordinates with cuisine, dish and verification filters, returns details such as hours and HalalRank score, and finds mosques with women's facilities and daily prayer and jummah times.",
       "use_case": "Finding a fully halal burger spot near a Chicago hotel, checking the iqamah time for Friday jummah at a nearby mosque, confirming a restaurant's verification status before dinner."
+    },
+    {
+      "name": "Equibles",
+      "url": "https://equibles.com",
+      "marker": "C",
+      "category": "Finance and Trading",
+      "description": "Stock prices, option chains, financial statements, full-text SEC filings, earnings call transcripts, 13F holdings, and insider and congressional trades for US and international stocks, plus updates to the user's own portfolios and watchlists.",
+      "use_case": "Finding the 10-K passage behind a revenue figure, comparing a fund's 13F holdings across two quarters, checking recent insider buying before an earnings call.",
+      "subcategory": "Market Data and Investment Research"
     }
   ],
   "held": [

@@ -2,7 +2,7 @@
 
 # Finance and Trading
 
-[All categories](../README.md#categories) · 519 connectors · Last updated October 8, 2026
+[All categories](../README.md#categories) · 520 connectors · Last updated October 8, 2026
 
 Connectors marked **`A`** are built and maintained by Anthropic; **`C`** marks the in-app catalog's Community badge (third-party built, not vetted like web-directory entries). Methodology and the held-entry policy are in the [README](../README.md) and [CONTRIBUTING.md](../CONTRIBUTING.md).
 
@@ -257,6 +257,7 @@ Connectors marked **`A`** are built and maintained by Anthropic; **`C`** marks t
 - [Economatica](https://www.economatica.com) **`C`** - Researches Brazilian capital markets — companies, funds, debentures and market news — returning the source and reference date behind every figure. *Use case: Pulling quarterly fundamentals on a B3-listed company, comparing two funds against their peers, checking sentiment in recent coverage of a sector.*
 - [EDINET DB — Japanese Listed Company Data](https://edinetdb.jp) **`C`** - Structured financial and disclosure data for about 3,800 Japanese listed companies, taken from EDINET filings via XBRL. *Use case: Screening Japanese companies by ROE and equity ratio, comparing peers in an industry, reading a company's latest securities report.*
 - [Energy Aspects](https://www.energyaspects.com) - Provides energy market research publications, intraday analyst commentary, and quantitative timeseries covering oil, gas, and power supply, demand, inventories, flows, and prices. *Use case: Pulling inventory timeseries as they stood at an earlier release, reading analyst commentary on an intraday price move, checking a gas demand forecast before a position review.*
+- [Equibles](https://equibles.com) **`C`** - Stock prices, option chains, financial statements, full-text SEC filings, earnings call transcripts, 13F holdings, and insider and congressional trades for US and international stocks, plus updates to the user's own portfolios and watchlists. *Use case: Finding the 10-K passage behind a revenue figure, comparing a fund's 13F holdings across two quarters, checking recent insider buying before an earnings call.*
 - [EquityRT Connect MCP](https://equityrt.com) **`C`** - Read-only access to prices, financial statements, ratios, estimates, funds, bonds and macroeconomic data in your EquityRT Connect account. *Use case: Pulling five years of a company's income statements, comparing valuation ratios across peers, checking analyst estimates before earnings.*
 - [Eroya Financial Data](https://eroya.co) **`C`** - Reads real-time quotes, historical prices and reference data from 185 endpoints covering global financial markets, with streaming access and export links for subscribed users. *Use case: Pulling current quotes for a watchlist of tickers, fetching price history for a backtest, generating an export link for a dataset to load into a spreadsheet.*
 - [FactSet AI-Ready Data](https://www.factset.com) - Institutional financial data. *Use case: Enterprise-grade market data, quantitative analysis, portfolio analytics.*
